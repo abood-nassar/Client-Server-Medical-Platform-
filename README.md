@@ -1,4 +1,4 @@
-project  implements aclient/server medical platform using TCP API in Java.
+project  implements aclient/server medical platform using TCP API in Java (multithreaded).
 The platform allows patients to submit tickets that include medical questions or
 consultations. The platform has registered doctors that are responsible for responding to
 these tickets.
